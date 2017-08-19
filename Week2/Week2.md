@@ -1,6 +1,11 @@
 
 1) 	Proposed topic 1: Sentiment Analysis of Product Reviews in Determining the Trustworthiness of an Online Seller
 
+	Objectives:
+		- To know if a seller is trustworthy or not based on the reviews of the items it is selling
+		- To classify the reviews as positive or negative
+		- To make the consumer aware about the seller
+
 	http://www.smartinsights.com/social-media-marketing/social-media-listening/managing-online-brand-sentiment/
 	https://www.ijecs.in/issue/v6-i1/20%20ijecs.pdf // 
 
@@ -12,6 +17,10 @@
 
 
 2)	Proposed topic 2: Solving Math Word Problems Using Natural Language Processing
+
+	Objectives:
+		- To help people, mostly students, in solving difficult word problems
+		- To further aide in learning
 
 	http://ltrc.iiit.ac.in/icon2015/icon2015_proceedings/PDF/30_rp.pdf
 	http://www.ijiet.org/papers/240-T0031.pdf
